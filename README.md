@@ -50,5 +50,5 @@ Used Js
 This project was designed as part of Module 3 assignment. It generates random passwords based on user choice.
 
 ## Links
-[!Deploy Website] (https://bcot-code.github.io/a-cool-Pswd-Generator/)
-[!MyProfile] (https://github.com/bcot-code)
+![Deploy Website] (https://bcot-code.github.io/a-cool-Pswd-Generator/)
+![MyProfile] (https://github.com/bcot-code)
