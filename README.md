@@ -1,6 +1,6 @@
 # a-cool-Pswd-Generator
 
-Modul 3 , here I created a form with HTML&amp;CSS along with JS to generate a User login
+Modul 3 , here I created a used general coding lanuage along with JS to generate a User password once the user "clicks" the eventListener or Enter "click".
 
 # Table of Contents
 
@@ -10,6 +10,7 @@ Modul 3 , here I created a form with HTML&amp;CSS along with JS to generate a Us
 - [Acceptance Criteria](#Criteria)
 - [Usage](#Usage)
 - [Link](#Links)
+- [Screenshot](#screenshot)
 
 ## Summary
 
