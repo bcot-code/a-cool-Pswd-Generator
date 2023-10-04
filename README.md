@@ -65,3 +65,7 @@ This project was designed as part of Module 3 assignment. It generates random pa
 
 [My_Profile] (https://github.com/bcot-code)
 ```
+
+### Screenshot
+
+![Screenshot](./assets/images/Screen%20Shot%202023-10-03%20at%207.28.05%20PM.png)
